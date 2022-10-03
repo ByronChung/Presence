@@ -15,11 +15,11 @@ Presence uses a heroku-deployed API and MongoDB Atlas Cluster to create a mock s
 
 The API is built using Express and Node, and the front-end displayed to school administrators is created with React.
 
-![alt text](https://github.com/Ashwins9001/Presence-App/blob/main/img/VF-process.PNG)
+![second image](https://user-images.githubusercontent.com/60553787/193650035-24f7f5b1-cc55-4bb0-97da-b03f495005cb.png)
 Shown above is the VoiceFlow configuration
 
 
-![alt text](https://github.com/Ashwins9001/Presence-App/blob/main/img/Alexa-workflow.PNG)
+![third image](https://user-images.githubusercontent.com/60553787/193650066-a2162892-08be-4be0-a620-20c50707e660.png)
 Shown above is a demonstration on the Alexa SDK test suite. If an Alexa-powered device such as an Amazon Echo is available, the application can run on that as well. 
 
 ## Security
